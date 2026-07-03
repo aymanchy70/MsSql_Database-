@@ -3,15 +3,6 @@
 
 # Digital Marketing Agency Management System (DMAMS)
 
-### Trainee Information
-
-* **Name:** Abdullah Al Ayman Chowdhury
-* **Trainee ID:** 1291362
-* **Round:** 67
-* **Batch No:** CS/NVIT-M/67/01
-
-
-
 ## 📌 Project Overview
 
 The **Digital Marketing Agency Management System (DMAMS)** is a comprehensive, SQL-based database solution designed to manage, track, and automate the core operations of a digital marketing agency. Built using **Microsoft SQL Server (MS SQL)**, this project serves as a robust enterprise management tool and a complete implementation of advanced relational database design, data manipulation, and optimization techniques.
